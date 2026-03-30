@@ -214,11 +214,11 @@ graph BT
 | 工具 | 版本 | 用途 |
 |------|------|------|
 | **pnpm** | 10.14.0 | 包管理器（Monorepo workspace） |
-| **Turborepo** | - | 构建编排（并行构建、缓存） |
-| **TypeScript** | - | 开发语言 |
-| **Vitest** | - | 测试框架 |
-| **ESLint** | - | 代码检查 |
-| **tsdown** | - | 打包构建 |
+| **Turborepo** | 见根目录 `package.json` | 构建编排（并行构建、缓存） |
+| **TypeScript** | 见各包 `package.json` | 开发语言 |
+| **Vitest** | 见各包 `package.json` | 测试框架 |
+| **ESLint** | 见各包 `package.json` | 代码检查 |
+| **tsdown** | 见各包 `package.json` | 打包构建 |
 
 ### TypeScript 配置
 
